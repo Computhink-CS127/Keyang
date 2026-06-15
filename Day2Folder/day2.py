@@ -20,7 +20,7 @@ name = "keyang"
 
 ########################################################################
 # Task 3:
-for counter in range(3,6,9,12,15):
+for counter in range(3,16,3):
     print(counter)
 
 
