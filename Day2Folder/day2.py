@@ -11,8 +11,8 @@
 # Task 2:
 name = "keyang"
 
-for letter in name:
-    print("Give me a "+ letter)
+#for letter in name:
+    #print("Give me a "+ letter)
 
 #print("WHO IS THE BEST ?!!?")
 #print("KEYANG!")
