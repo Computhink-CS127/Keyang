@@ -12,7 +12,8 @@
 name = "keyang"
 
 for letter in name:
-    print("Give me a"+ letter)
+    print("Give me a "+ letter)
+    
 
 
 ########################################################################
