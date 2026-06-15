@@ -14,8 +14,8 @@ name = "keyang"
 for letter in name:
     print("Give me a "+ letter)
 
-print("WHO IS THE BEST ?!!?")
-print("KEYANG!")
+#print("WHO IS THE BEST ?!!?")
+#print("KEYANG!")
 
 
 ########################################################################
