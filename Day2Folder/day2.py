@@ -20,7 +20,7 @@ print("KEYANG!")
 
 ########################################################################
 # Task 3:
-for counter in range(11):
+for counter in range(1,11):
     print(counter)
 
 
