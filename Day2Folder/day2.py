@@ -16,7 +16,8 @@ for counter in range(2,121,2):
     print(counter)
 for i in range(-54,-101,-1):
     print(i)
-
+for xx in range(7,20):
+    print
 ########################################################################
 # Task 2:
 name = "keyang"
