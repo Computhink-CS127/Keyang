@@ -14,6 +14,8 @@ punishment="i will not sling mud at my friends."
 # 7,8,9,10, ..., 20
 for counter in range(2,121,2):
     print(counter)
+for i in range(-54,-101):
+    print
 ########################################################################
 # Task 2:
 name = "keyang"
