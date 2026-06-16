@@ -9,6 +9,9 @@ punishment="i will not sling mud at my friends."
 for counter in range(100):
     print(punishment)
 
+# 2,4,6,8,...,120
+# -54, -55, -56, ..., -100
+# 7,8,9,10, ..., 20
 
 ########################################################################
 # Task 2:
