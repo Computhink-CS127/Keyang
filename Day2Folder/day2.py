@@ -6,6 +6,9 @@
 # Task 1:
 punishment="i will not sling mud at my friends."
 
+for counter in range(100):
+    
+
 
 ########################################################################
 # Task 2:
