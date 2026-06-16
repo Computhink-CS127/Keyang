@@ -13,7 +13,7 @@ print(title + name + " has the most " + item)
 # Task 2:
 name = keyang
 num_pens = 30
-print(name + bought)
+print(name + "bought" + str())
 
 ########################################################################
 # Task 3:
