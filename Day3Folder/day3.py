@@ -7,7 +7,7 @@ print("hello from day3")
 name = input("what is your name?")
 title = input("what is your title?")
 item = input("what items you have?")
-print(title + name + "")
+print(title + name + "has the most" + item)
 
 ########################################################################
 # Task 2:
