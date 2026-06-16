@@ -11,7 +11,7 @@
 
 ########################################################################
 # Task 2:
-name = keyang
+name = keyan
 num_pens = 30
 print(name + "bought" + str(num_pens) + pens)
 
