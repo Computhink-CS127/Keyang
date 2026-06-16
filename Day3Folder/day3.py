@@ -4,9 +4,9 @@
 
 ########################################################################
 # Task 1:
-name = input("what is your name?")
-title = input("what is your title?")
-item = input("what items you have?")
+#name = input("what is your name?")
+#title = input("what is your title?")
+#item = input("what items you have?")
 print(title + name + " has the most " + item)
 
 ########################################################################
