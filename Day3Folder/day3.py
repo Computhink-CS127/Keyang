@@ -19,7 +19,7 @@ num_pens = 30
 # Task 3:
 num1 = input("  ")
 num2 = input("  ")
-print(int)
+print(int(num1) + int())
 ########################################################################
 # Task 4:
 
