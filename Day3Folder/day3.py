@@ -52,8 +52,7 @@
 ########################################################################
 # Task 7:
 import random
-for i in range(1000
-               ):
+for i in range(1000):
     diceValue = random.randint(1,101)
     print(diceValue)
 
