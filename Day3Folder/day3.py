@@ -51,10 +51,10 @@
 
 ########################################################################
 # Task 7:
-import random
-for i in range(1000):
-    diceValue = random.randint(1,101)
-    print(diceValue)
+# import random
+# for i in range(1000):
+#     diceValue = random.randint(1,101)
+#     print(diceValue)
 
 
 
@@ -63,6 +63,7 @@ for i in range(1000):
 import random
 for i in range(2):
     diceValue = random.randint(1,101)
+    
    
 
 ########################################################################
