@@ -27,7 +27,8 @@ print(int(num1) / int(num2))
 # Task 4:
 num_apples = input("  ")
 price = 1.50
-price * num_apples
+price2 = price * num_apples
+
 
 
 ########################################################################
