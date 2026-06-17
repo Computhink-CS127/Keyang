@@ -63,10 +63,13 @@
 import random
 diceValue1 = random.randint(1,101)
 diceValue2 = random.randint(1,101)
+
 ans = input(str(diceValue1) + "+" + str(diceValue2))
+
 if ans == int(diceValue1) + int(diceValue2):
     print("C0RRECT!")
 else:
     print("WR0NG")
+
 
 #######################################################################
