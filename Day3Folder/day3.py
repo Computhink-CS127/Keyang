@@ -41,12 +41,12 @@
     #print("age2 is older")
 ########################################################################
 # Task 6:
-password = "R3dr3Rrrr32edewGrg"
-enter = input("  ")
-if enter == password:
-    print("G00D T0 G0")
-else:
-    print("@csses denied")
+# password = "R3dr3Rrrr32edewGrg"
+# enter = input("  ")
+# if enter == password:
+#     print("G00D T0 G0")
+# else:
+#     print("@csses denied")
 
 
 ########################################################################
