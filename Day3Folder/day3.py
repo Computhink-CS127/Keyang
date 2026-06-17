@@ -62,8 +62,8 @@
 # Task 8:
 import random
 for i in range(1):
-    diceValue = random.randint(1,101)
+    diceValue1 = random.randint(1,101)
 for i in range(1):
-    diceValue = random.randint(1,101)
-print()
+    diceValue2 = random.randint(1,101)
+print(int)
 ########################################################################
