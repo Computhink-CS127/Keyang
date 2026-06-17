@@ -68,7 +68,7 @@ i = diceValue1 + diceValue2
 
 ans = input(str(diceValue1) + "+" + str(diceValue2))
 
-if ans == i:
+if int(ans) == i:
     print("C0RRECT!")
 else:
     print("WR0NG")
