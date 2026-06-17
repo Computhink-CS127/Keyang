@@ -35,8 +35,10 @@ print(price2)
 # Task 5:
 age1 = input("  ")
 age2 = input("  ")
-if 
-
+if age1 >= age2:
+    print("age1 is older")
+else:
+    print("age2 is older")
 ########################################################################
 # Task 6:
 
