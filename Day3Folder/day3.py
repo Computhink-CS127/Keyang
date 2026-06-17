@@ -11,9 +11,9 @@
 
 ########################################################################
 # Task 2:
-name = "keyang"
+#name = "keyang"
 num_pens = 30
-print(name + " bought " + str(num_pens) + " pens")
+#print(name + " bought " + str(num_pens) + " pens")
 
 ########################################################################
 # Task 3:
