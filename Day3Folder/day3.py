@@ -17,8 +17,8 @@ num_pens = 30
 
 ########################################################################
 # Task 3:
-#num1 = input("  ")
-#num2 = input("  ")
+num1 = input("  ")
+num2 = input("  ")
 print(int(num1) + int(num2))
 print(int(num1) - int(num2))
 print(int(num1) * int(num2))
