@@ -65,5 +65,5 @@ for i in range(1):
     diceValue1 = random.randint(1,101)
 for i in range(1):
     diceValue2 = random.randint(1,101)
-print(int)
+print(int(diceValue1) + int())
 ########################################################################
