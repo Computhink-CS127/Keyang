@@ -17,18 +17,18 @@
 
 ########################################################################
 # Task 3:
-num1 = input("  ")
-num2 = input("  ")
-print(int(num1) + int(num2))
-print(int(num1) - int(num2))
-print(int(num1) * int(num2))
-print(int(num1) / int(num2))
+# num1 = input("  ")
+# num2 = input("  ")
+# print(int(num1) + int(num2))
+# print(int(num1) - int(num2))
+# print(int(num1) * int(num2))
+# print(int(num1) / int(num2))
 ########################################################################
 # Task 4:
-num_apples = input("  ")
-price = 1.50
-price2 = price * int(num_apples)
-print(price2)
+# num_apples = input("  ")
+# price = 1.50
+# price2 = price * int(num_apples)
+# print(price2)
 
 
 ########################################################################
