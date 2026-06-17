@@ -53,7 +53,7 @@ else:
 # Task 7:
 import random
 for i in range(10):
-    diceValue = random.randint
+    diceValue = random.randint(1,101)
 
 
 
