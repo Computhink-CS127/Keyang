@@ -61,7 +61,7 @@
 ########################################################################
 # Task 8:
 import random
-for i in range(2):
+for i in range(1):
     diceValue = random.randint(1,101)
    
 
