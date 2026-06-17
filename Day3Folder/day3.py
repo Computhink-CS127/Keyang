@@ -44,7 +44,7 @@ print(price2)
 password = "R3dr3Rrrr32edewGrg"
 enter = input("  ")
 if enter == password:
-    print("GO0D T0 G0")
+    print("G00D T0 G0")
 
 
 ########################################################################
