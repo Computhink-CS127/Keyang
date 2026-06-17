@@ -33,12 +33,12 @@ print(price2)
 
 ########################################################################
 # Task 5:
-age1 = input("  ")
-age2 = input("  ")
-if age1 >= age2:
-    print("age1 is older")
-else:
-    print("age2 is older")
+#age1 = input("  ")
+#age2 = input("  ")
+#if age1 >= age2:
+    #print("age1 is older")
+#else:
+    #print("age2 is older")
 ########################################################################
 # Task 6:
 password = "R3dr3Rrrr32edewGrg"
