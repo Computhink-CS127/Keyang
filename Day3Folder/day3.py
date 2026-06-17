@@ -43,6 +43,8 @@ print(price2)
 # Task 6:
 password = "R3dr3Rrrr32edewGrg"
 enter = input("  ")
+if enter == password:
+    print("")
 
 
 ########################################################################
